@@ -119,8 +119,8 @@
    <text xml:lang="eng">
       <body>
          <div type="poem">
-            <pb facs="tcp:000327_0000_0FA4ADF9EAD51E50"/>
-            <pb n="1" facs="tcp:000327_0001_0FA4ADFAB96B7E50"/>
+            <pb facs="unknown:000327_0000_0FA4ADF9EAD51E50"/>
+            <pb n="1" facs="unknown:000327_0001_0FA4ADFAB96B7E50"/>
             <head>
                <date>July <hi>19. 1666.</hi>
                </date>
@@ -172,7 +172,7 @@ The <hi>5</hi>th. day.</head>
          </div>
          <div type="poem">
             <pb n="2"
-                facs="tcp:000327_0002_0FA4ADFB75681A98"
+                facs="unknown:000327_0002_0FA4ADFB75681A98"
                 rendition="simple:additions"/>
             <head>
                <date>July <hi>20.</hi>
@@ -226,7 +226,7 @@ The <hi>6</hi>th. day.</head>
          </div>
          <div type="poem">
             <pb n="3"
-                facs="tcp:000327_0003_0FA4ADFC4AF659C8"
+                facs="unknown:000327_0003_0FA4ADFC4AF659C8"
                 rendition="simple:additions"/>
             <head>
                <date>July <hi>21.</hi>
@@ -279,7 +279,7 @@ The <hi>7</hi>th day.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="4" facs="tcp:000327_0004_0FA4ADFCF43D5250"/>
+            <pb n="4" facs="unknown:000327_0004_0FA4ADFCF43D5250"/>
             <head>
                <date>July <hi>22.</hi>
                </date>
@@ -341,7 +341,7 @@ The <hi>7</hi>th day.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="5" facs="tcp:000327_0005_0FA4ADFDB3E08480"/>
+            <pb n="5" facs="unknown:000327_0005_0FA4ADFDB3E08480"/>
             <head>
                <date>July <hi>23.</hi>
                </date>
@@ -392,7 +392,7 @@ The second day.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="6" facs="tcp:000327_0006_0FA4ADFE83C39F80"/>
+            <pb n="6" facs="unknown:000327_0006_0FA4ADFE83C39F80"/>
             <head>
                <date>July <hi>24.</hi>
                </date>
@@ -444,7 +444,7 @@ The third day.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="7" facs="tcp:000327_0007_0FA4ADFF2CCCA890"/>
+            <pb n="7" facs="unknown:000327_0007_0FA4ADFF2CCCA890"/>
             <head>
                <date>July <hi>25.</hi>
                </date>
@@ -501,7 +501,7 @@ The <hi>4</hi>th. day.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="8" facs="tcp:000327_0008_0FA4ADFFF9C85008"/>
+            <pb n="8" facs="unknown:000327_0008_0FA4ADFFF9C85008"/>
             <head>
                <date>July <hi>26</hi>th.</date>
 The <hi>5</hi>th. day</head>
@@ -552,7 +552,7 @@ The <hi>5</hi>th. day</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="9" facs="tcp:000327_0009_0FA4AE00AA1744C0"/>
+            <pb n="9" facs="unknown:000327_0009_0FA4AE00AA1744C0"/>
             <head>
                <date>July <hi>27.</hi>
                </date>
@@ -603,7 +603,7 @@ The <hi>6</hi>th. day.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="10" facs="tcp:000327_0010_0FA4AE0178FD0510"/>
+            <pb n="10" facs="unknown:000327_0010_0FA4AE0178FD0510"/>
             <head>
                <date>July <hi>28.</hi>
                </date>
@@ -655,7 +655,7 @@ The <hi>7</hi>th day.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="11" facs="tcp:000327_0011_0FA4AE042A57D030"/>
+            <pb n="11" facs="unknown:000327_0011_0FA4AE042A57D030"/>
             <head>
                <date>July <hi>29.</hi>
                </date>
@@ -708,7 +708,7 @@ The First day.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="12" facs="tcp:000327_0012_0FA4AE046A429698"/>
+            <pb n="12" facs="unknown:000327_0012_0FA4AE046A429698"/>
             <head>
                <date>July <hi>30.</hi>
                </date>
@@ -762,7 +762,7 @@ The second day.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="13" facs="tcp:000327_0013_0FA4AE064A3FEE90"/>
+            <pb n="13" facs="unknown:000327_0013_0FA4AE064A3FEE90"/>
             <head>
                <date>July <hi>31.</hi>
                </date>
@@ -813,7 +813,7 @@ The third day.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="14" facs="tcp:000327_0014_0FA4AE06DEF3ACF0"/>
+            <pb n="14" facs="unknown:000327_0014_0FA4AE06DEF3ACF0"/>
             <head>
                <date>August <hi>1.</hi>
                </date>
@@ -870,7 +870,7 @@ The <hi>4</hi>th day.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="15" facs="tcp:000327_0015_0FA4AE0891D13010"/>
+            <pb n="15" facs="unknown:000327_0015_0FA4AE0891D13010"/>
             <head>
                <date>August <hi>2.</hi>
                </date>
@@ -921,7 +921,7 @@ The <hi>5</hi>th day.</head>
             </lg>
          </div>
          <div type="poem">
-            <pb n="16" facs="tcp:000327_0016_0FA4AE08E8F1E348"/>
+            <pb n="16" facs="unknown:000327_0016_0FA4AE08E8F1E348"/>
             <head>
                <date>August <hi>3.</hi>
                </date>
@@ -978,7 +978,7 @@ The <hi>6</hi>th. day</head>
       </body>
       <back>
          <div type="to_the_reader">
-            <pb facs="tcp:000327_0017_0FA4AE0BA8087960"/>
+            <pb facs="unknown:000327_0017_0FA4AE0BA8087960"/>
             <head>A POSTCRIPT TO THE READER.</head>
             <lg>
                <l>TIs not to shew the Author's <hi>Wit</hi> but <hi>Grace,</hi>
@@ -1013,7 +1013,7 @@ The <hi>6</hi>th. day</head>
                <l>To take his Bed there, when he should expire.</l>
             </lg>
             <lg>
-               <pb facs="tcp:000327_0018_0FA4AE0E32BE14F0"/>
+               <pb facs="unknown:000327_0018_0FA4AE0E32BE14F0"/>
                <l>And though our <hi>Saviour</hi> with his <hi>Odours</hi> sweet</l>
                <l>Hath to the Faithful it <hi>perfum'd;</hi> yet there</l>
                <l>They can't abide for aye: away must fleet</l>
@@ -1054,7 +1054,7 @@ The <hi>6</hi>th. day</head>
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:000327_0019_0FA4AE0F07F7D350"/>
+            <pb facs="unknown:000327_0019_0FA4AE0F07F7D350"/>
             <head>VERSES made by That worthy KNIGHT, Sir. <hi>Walter Rawleigh,</hi> A little before his DEATH.</head>
             <lg>
                <l>GIve me my Scallup shell of quiet,</l>
@@ -1077,7 +1077,7 @@ The <hi>6</hi>th. day</head>
                <l>I'le take them first to quench my thirst,</l>
                <l>And taste of Nector Suckets,</l>
                <l>
-                  <pb facs="tcp:000327_0020_0FA4AE0FCA6C55C0"/>By those clear Wells where sweetness dwells,</l>
+                  <pb facs="unknown:000327_0020_0FA4AE0FCA6C55C0"/>By those clear Wells where sweetness dwells,</l>
                <l>Drawn up by Saints, in crystal Buckets.</l>
                <l>Then by that happy blissful way,</l>
                <l>More peaceful Pilgrims I shall see,</l>
@@ -1110,7 +1110,7 @@ The <hi>6</hi>th. day</head>
                <l>And this is mine eternal plea</l>
                <l>To him that made Heav'n Earth and Sea;</l>
                <l>
-                  <pb facs="tcp:000327_0021_0FA4AE106F2D7BF0"/>That since my flesh must die so soon,</l>
+                  <pb facs="unknown:000327_0021_0FA4AE106F2D7BF0"/>That since my flesh must die so soon,</l>
                <l>And want an head to dine next noon.</l>
                <l>Just at the stroak when my veins spread,</l>
                <l>Set on my Soul an everlasting head.</l>
